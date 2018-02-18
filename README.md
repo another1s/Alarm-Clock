@@ -1,6 +1,7 @@
 # Alarm-Clock
-* in class task
-* He Zhe Yu
+* student name: He Zhe Yu
+
+![alarm clock use diagram](alarmclock.jpg "alarm clock")
 
 
 
